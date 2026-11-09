@@ -1,0 +1,3 @@
+# novavergehq/.github — Shared engineering instruction bridge
+
+Read AGENTS.md before modifying repository content. NVA-GH-OPS-001 draft: https://github.com/novavergehq/novaverge-engineering/pull/3. Follow existing W0/Golden/NVA-SDLC-001 decisions first. Do not treat the special .github repository as a universal Copilot instruction mechanism or release-policy authority. Keep the organization profile lightweight. Repository-level agent instructions and protected CI must be adopted separately where supported. Use one bounded PR and explicit test/evidence receipts; no unauthorized expenses, artifact deletion or privileged actions.
